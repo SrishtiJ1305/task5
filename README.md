@@ -45,6 +45,6 @@ animint2gist(animint(scatter))
 ![]()
 
 # Authors 
-- Srishti jain
+- Srishti Jain
 
 
