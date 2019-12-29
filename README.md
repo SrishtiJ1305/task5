@@ -40,10 +40,11 @@ animint(scatter)
 animint2gist(animint(scatter))
 
 ```
+# Screen recording
+
+![]()
 
 # Authors 
 - Srishti jain
 
-# Screen recording
 
-![](http://g.recordit.co/cmSlmVxzqO.gif)
