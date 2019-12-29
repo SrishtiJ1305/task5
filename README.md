@@ -1,12 +1,13 @@
 # Introduction
-This is my work from the Google Code-in task Use the simple Cranlogs API to obtain half-yearly R package downloads summaries in 2018.
+This is my work from the Google Code-in task (easy) Create an interactive data visualization using animint2.
 Below you can see the code with comments.
 
 # Prerequisites
 - R
 - RStudio
-- jsonlite
-- curl
+- animint2
+- servr
+- gistr
 
 
 # Code Description
